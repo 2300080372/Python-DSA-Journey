@@ -1,6 +1,6 @@
 # Python DSA Journey
 
-Hi, I'm Amzy.
+Hi, I'm Amrutha.
 
 This repository contains my Data Structures and Algorithms learning journey using Python.
 
